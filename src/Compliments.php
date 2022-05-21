@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Katya\Compliments210522;
 
 class Compliments
